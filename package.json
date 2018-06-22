@@ -1,0 +1,17 @@
+{
+    "name": "masterthemes-templates-source",
+    "version": "0.0.1",
+    "description": "Common list of application templates for MasterThemes builders",
+    "repository": "github:masterthemes/masterthemes-templates-source",
+    "homepage": "https://github.com/masterthemes/masterthemes-templates-source#readme",
+    "bugs": "https://github.com/masterthemes/masterthemes-templates-source/issues",
+    "author": "Brennan Fee <brennan@github.mailbots.org> (https://github.com/masterthemes)",
+    "keywords": [],
+    "devDependencies": {},
+    "dependencies": {},
+    "private": true,
+    "license": "MIT",
+    "scripts": {
+        "test": "echo 'Error: no tests specified' && exit 1"
+    }
+}
